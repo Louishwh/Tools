@@ -1,0 +1,3 @@
+
+# nginx 配置的位置
+/etc/nginx/sites-available

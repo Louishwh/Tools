@@ -1,0 +1,22 @@
+
+# 导入
+brew install nginx 
+
+# 启动 nginx
+nginx
+
+# 配置nginx
+位置：/usr/local/etc/nginx/nginx.conf
+配置：nginx.conf
+
+
+# # # # # # # # # # # #
+
+# 导入uwsgi
+brew install uwsgi 
+
+# 配置uwsgi
+app.ini 
+
+
+
